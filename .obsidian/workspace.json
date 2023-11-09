@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Country.md",
+                "file": "Caribbean Islands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Country.md",
+                "file": "Caribbean Islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Country.md",
+                "file": "Caribbean Islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Country.md"
+                "file": "Caribbean Islands.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   },
   "active": "5d96a6087926eed4",
   "lastOpenFiles": [
+    "Territory.md",
     "Caribbean Islands.md",
     "Country.md",
     "images/caribbean-islands.webp",
