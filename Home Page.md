@@ -3,6 +3,7 @@ tags:
   - GraphExclude
 aliases: 
 title: Home Page
+home: "true"
 ---
 # Home Page
 I am building this knowledge vault to help myself learn different forms of trivia and factual knowledge. It is broken into the following categories
