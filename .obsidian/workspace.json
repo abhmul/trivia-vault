@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geography.md",
+                "file": "Country.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geography.md",
+                "file": "Country.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geography.md",
+                "file": "Country.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geography.md"
+                "file": "Country.md"
               }
             }
           },
@@ -157,8 +157,13 @@
   },
   "active": "5d96a6087926eed4",
   "lastOpenFiles": [
-    "Home Page.md",
+    "Caribbean Islands.md",
+    "Country.md",
+    "images/caribbean-islands.webp",
+    "images/caribbean-islands.webp.crdownload",
+    "images",
     "Geography.md",
+    "Home Page.md",
     "README.md",
     "templates/post.md",
     "templates/exclude-post.md",
