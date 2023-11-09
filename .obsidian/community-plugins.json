@@ -1,1 +1,8 @@
-[]
+[
+  "templater-obsidian",
+  "obsidian-style-settings",
+  "obsidian-regex-replace",
+  "obsidian-git",
+  "obsidian-linter",
+  "calendar"
+]
