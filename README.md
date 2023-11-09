@@ -1,2 +1,8 @@
+---
+tags:
+  - GraphExclude
+aliases: 
+title: README
+---
 # trivia-vault
-Knowledge base for learning trivia
+This is a knowledge base for learning trivia. This README is solely for display on GitHub. To access the different pages, please go 

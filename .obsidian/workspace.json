@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/post.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a46c8392eb98ca9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "README.md"
               }
             }
           },
@@ -168,12 +155,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a46c8392eb98ca9b",
+  "active": "6be994fd9215ccd1",
   "lastOpenFiles": [
     "templates/post.md",
-    "test.md",
-    "templates/ignore-post.md",
+    "templates/exclude-post.md",
     "README.md",
+    "test.md",
+    "template-scripts/title.js",
+    "template-scripts/other_outlinks.js",
+    "template-scripts",
     "templates/counterexample.md",
     "templates/tikz.md",
     "templates/statement.md",

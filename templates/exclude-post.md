@@ -1,7 +1,6 @@
 ---
 tags:
-- GraphExclude
-- gitignore
-aliases:
+  - GraphExclude
+aliases: 
 title: <% tp.user.title(tp) %>
 ---
