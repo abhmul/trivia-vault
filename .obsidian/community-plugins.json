@@ -4,5 +4,6 @@
   "obsidian-regex-replace",
   "obsidian-git",
   "obsidian-linter",
-  "calendar"
+  "calendar",
+  "obsidian-markbase"
 ]
