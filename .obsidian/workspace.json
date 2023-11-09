@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Geography.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Geography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Geography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Geography.md"
               }
             }
           },
@@ -155,11 +155,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6be994fd9215ccd1",
+  "active": "5d96a6087926eed4",
   "lastOpenFiles": [
+    "Home Page.md",
+    "Geography.md",
+    "README.md",
     "templates/post.md",
     "templates/exclude-post.md",
-    "README.md",
     "test.md",
     "template-scripts/title.js",
     "template-scripts/other_outlinks.js",
