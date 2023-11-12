@@ -21,3 +21,4 @@ title: Geography
 
 ## Different regions
 1. [[Caribbean Islands]]
+2. [[Oceania]]
