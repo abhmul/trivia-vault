@@ -18,5 +18,11 @@ title: Polynesia
 - [[Tokelau]]
 - [[Phoenix Islands]]
 - [[Jarvis Island]]
-- 
-- 
+- [[Kiritimati|Christmas Island]]
+- [[Line Islands]]
+- [[Tonga]]
+- [[Niue]]
+- [[Chatham Islands]]
+- [[Kermadec Islands]]
+- [[Cook Islands]]
+- [[TODO]]
