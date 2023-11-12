@@ -11,10 +11,9 @@ title: Oceania
 
 
 ## Major Regions
-
+![[Oceania_UN_Geoscheme_Regions.svg.png]]
 
 1. [[Australasia]]
 2. [[Melanesia]]
 3. [[Micronesia]]
 4. [[Polynesia]]
-5. 

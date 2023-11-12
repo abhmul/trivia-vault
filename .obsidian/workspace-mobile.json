@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oceania.md",
+                "file": "Polynesia.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Oceania.md",
+            "file": "Polynesia.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Oceania.md",
+            "file": "Polynesia.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Oceania.md"
+            "file": "Polynesia.md"
           }
         }
       },
@@ -142,9 +142,13 @@
   },
   "active": "6e2d3b7678b441e5",
   "lastOpenFiles": [
+    "Territory.md",
+    "Polynesia.md",
+    "Country.md",
+    "Oceania.md",
+    "images/Oceania_UN_Geoscheme_Regions.svg.png",
     "caribbean-islands.webp",
     "Nominal Gross Domestic Product.md",
-    "Oceania.md",
     "Geography.md"
   ]
 }
