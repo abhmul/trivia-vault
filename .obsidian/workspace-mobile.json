@@ -15,7 +15,7 @@
               "state": {
                 "file": "Oceania.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -142,6 +142,7 @@
   },
   "active": "6e2d3b7678b441e5",
   "lastOpenFiles": [
+    "caribbean-islands.webp",
     "Nominal Gross Domestic Product.md",
     "Oceania.md",
     "Geography.md"
