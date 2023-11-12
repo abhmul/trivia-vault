@@ -15,4 +15,8 @@ title: Polynesia
 - [[Hawaii]]
 - [[Wallis and Futuna]]
 - [[Samoa]]
+- [[Tokelau]]
+- [[Phoenix Islands]]
+- [[Jarvis Island]]
+- 
 - 
