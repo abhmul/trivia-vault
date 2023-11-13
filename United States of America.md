@@ -5,6 +5,7 @@ title: United States of America
 # United States of America
 
 ## [[State]]s
+Ordered by land area:
 1.  
 2.  
 3.  
@@ -21,7 +22,7 @@ title: United States of America
 14.  
 15.  
 16.  
-17.  
+17.  [[South Dakota]]
 18.  
 19.  
 20.  
