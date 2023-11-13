@@ -19,6 +19,6 @@ title: Geography
 3. Notes are populated with information about each place.  
 4. Vault can be built incrementally by focusing on one region and building it out.
 
-## Different regions
-1. [[Caribbean Islands]]
+## [[Continent]]s
+1. [[North America]]
 2. [[Oceania]]
