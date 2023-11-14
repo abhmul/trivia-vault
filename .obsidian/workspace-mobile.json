@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Love Supreme.md",
+                "file": "Drip Coffee.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Love Supreme.md",
+            "file": "Drip Coffee.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Love Supreme.md",
+            "file": "Drip Coffee.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Love Supreme.md"
+            "file": "Drip Coffee.md"
           }
         }
       },
@@ -142,6 +142,7 @@
   },
   "active": "6e2d3b7678b441e5",
   "lastOpenFiles": [
+    "Ethiopian Coffee.md",
     "Drip Coffee.md",
     "Love Supreme.md",
     "Coffee.md",
