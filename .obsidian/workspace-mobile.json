@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Drip Coffee.md",
+                "file": "Home Page.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Drip Coffee.md",
+            "file": "Home Page.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Drip Coffee.md",
+            "file": "Home Page.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Drip Coffee.md"
+            "file": "Home Page.md"
           }
         }
       },
@@ -142,10 +142,10 @@
   },
   "active": "6e2d3b7678b441e5",
   "lastOpenFiles": [
-    "Ethiopian Coffee.md",
-    "Drip Coffee.md",
-    "Love Supreme.md",
     "Coffee.md",
+    "Drip Coffee.md",
+    "Ethiopian Coffee.md",
+    "Love Supreme.md",
     "Home Page.md",
     "Polynesia.md",
     "Kiritimati.md",
