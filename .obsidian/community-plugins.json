@@ -5,5 +5,8 @@
   "obsidian-git",
   "obsidian-linter",
   "calendar",
-  "obsidian-markbase"
+  "obsidian-markbase",
+  "homepage",
+  "obsidian-kanban",
+  "cmdr"
 ]

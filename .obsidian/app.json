@@ -1,4 +1,34 @@
 {
   "promptDelete": false,
-  "attachmentFolderPath": "images"
+  "attachmentFolderPath": "images",
+  "userIgnoreFilters": [
+    "template-scripts/",
+    "templates/"
+  ],
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "insert-current-date",
+    "cmdr:macro-0",
+    "editor:unindent-list",
+    "editor:indent-list",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "templater-obsidian:insert-templater",
+    "obsidian-linter:lint-all-files",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:insert-link",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "insert-current-time",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:toggle-checklist-status",
+    "editor:undo",
+    "editor:redo",
+    "editor:configure-toolbar"
+  ],
+  "alwaysUpdateLinks": true
 }
