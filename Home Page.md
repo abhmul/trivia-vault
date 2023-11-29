@@ -16,6 +16,7 @@ I am populating each category as I learn new things. As a starting point, I am l
 I am also keeping track of food and drinks I try along with my own notes on them
 - [[Food and Drink]]
   - [[Coffee]]
+  - [[Apple]]s
 
 As well as media
 - [[Movie]]s
