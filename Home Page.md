@@ -20,3 +20,6 @@ I am also keeping track of food and drinks I try along with my own notes on them
 
 As well as media
 - [[Movie]]s
+
+And music I am learning
+- [[Piano Music]]

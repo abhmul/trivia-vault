@@ -4,22 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "9a5a659ff48e6c16",
+        "id": "89192cb030fa937f",
         "type": "tabs",
         "children": [
           {
-            "id": "6e2d3b7678b441e5",
+            "id": "93a2c66459e269c3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Home Page.md",
                 "mode": "source",
-                "source": true
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "de1f4d3badfed55f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Food and Drink.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "573be22acfe55c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Apple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdbe2ad6c4715282",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Piano Music.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +124,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Home Page.md",
+            "file": "Piano Music.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +141,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Home Page.md",
+            "file": "Piano Music.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +153,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Home Page.md"
+            "file": "Piano Music.md"
           }
         }
       },
@@ -136,17 +175,27 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "6e2d3b7678b441e5",
+  "active": "cdbe2ad6c4715282",
   "lastOpenFiles": [
+    "Home Page.md",
+    "Piano Music.md",
+    "Apple.md",
+    "McIntosh Red.md",
+    "Food and Drink.md",
+    "United States of America.md",
+    "South Dakota.md",
+    "North America.md",
+    "/United States of America.md",
+    "/South Dakota.md",
+    "/North America.md",
+    "/Geography.md",
     "Coffee.md",
     "Drip Coffee.md",
     "Ethiopian Coffee.md",
     "Love Supreme.md",
-    "Home Page.md",
     "Polynesia.md",
     "Kiritimati.md",
     "images/Map_OC-Polynesia.png",
