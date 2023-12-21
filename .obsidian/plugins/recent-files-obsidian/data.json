@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Home Page",
+      "path": "Home Page.md"
+    },
+    {
       "basename": "Drip Coffee",
       "path": "Drip Coffee.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Coffee",
       "path": "Coffee.md"
-    },
-    {
-      "basename": "Home Page",
-      "path": "Home Page.md"
     }
   ],
   "omittedPaths": [],
