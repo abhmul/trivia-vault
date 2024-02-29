@@ -23,3 +23,6 @@ As well as media
 
 And music I am learning
 - [[Piano Music]]
+
+And Chess
+- [[Chess]]

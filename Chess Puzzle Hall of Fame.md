@@ -1,0 +1,6 @@
+- 8/4KBpk/R5Np/7p/7P/1p6/1P6/8 w - - 0 1
+	- mate in 3
+- 8/8/8/8/4kp1p/7P/5K2/8 b - - 9 63
+	- queen the f4 pawn
+- https://lichess.org/training/522175525
+- 
