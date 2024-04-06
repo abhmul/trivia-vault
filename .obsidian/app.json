@@ -8,7 +8,6 @@
   "mobileToolbarCommands": [
     "editor:insert-wikilink",
     "insert-current-date",
-    "cmdr:macro-0",
     "obsidian-linter:lint-file",
     "editor:unindent-list",
     "editor:indent-list",
@@ -30,5 +29,11 @@
     "editor:redo",
     "editor:configure-toolbar"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
